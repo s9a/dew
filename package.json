@@ -1,8 +1,9 @@
 {
   "name": "",
   "private": true,
-  "homepage": "",
-  "description": "",
+  "funding": "https://github.com/s9a",
+  "homepage": "https://s9a.page/dew",
+  "description": "polite color",
   "version": "0.0.0",
   "license": "0BSD",
   "author": "*",
