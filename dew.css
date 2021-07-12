@@ -75,7 +75,7 @@ https://github.com/s9a/dew
   --dew-ink: var(--dew-media);
 }
 
-@media (prfers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root {
     --dew-media: var(--dew-lunar);
     --dew-polar: var(--dew-solar);
