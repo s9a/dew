@@ -1,0 +1,130 @@
+html {
+  font-family: monospace, sans-serif;
+  font-size: calc(1em + 1vmax);
+  line-height: 1.333;
+}
+
+body {
+  margin: 2rem;
+  overflow-wrap: anywhere;
+}
+
+article {
+  display: block;
+}
+
+fieldset {
+  display: contents;
+}
+
+fieldset::after {
+  display: block;
+  content: "";
+  margin: 1ex;
+}
+
+details,
+header,
+footer {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  max-width: 22em;
+}
+
+h2,
+nav,
+address,
+figcaption {
+  display: block;
+  font: inherit;
+  font-size: 2rem;
+}
+
+figure {
+  display: block;
+  margin: 0;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+
+dfn {
+  font: inherit;
+  font-size: 3em;
+}
+
+i,
+var,
+samp,
+code {
+  font: inherit;
+}
+
+kbd {
+  font: inherit;
+  padding-inline-start: 1mm;
+  padding-inline-end: 1mm;
+  white-space: pre-wrap;
+}
+
+input,
+button {
+  max-width: 100%;
+  font-size: .66rem;
+}
+
+textarea {
+  border-style: dotted;
+  font-size: .66rem;
+  max-width: 100%;
+  width: 33em;
+}
+
+[data-oral] {
+  font-size: 0;
+}
+
+a {
+  display: inline-block;
+  text-decoration-style: dotted;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+:enabled,
+:disabled {
+  padding: 1ex;
+}
+
+[href] {
+  padding: 1mm;
+}
+
+[hidden] {
+  display: none;
+}
+
+@media (prefers-color-scheme: light) {
+  [value=light] { display: inline }
+}
+
+@media (prefers-color-scheme: dark) {
+  [value=dark] { display: inline }
+}
+
+:focus {
+  outline-style: dotted;
+  outline-width: thick;
+}
+
+::selection {
+  background: deepskyblue;
+  color: black;
+}
+
+[data-drop] {
+  vertical-align: middle;
+}
