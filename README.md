@@ -27,7 +27,7 @@
 <link rel="stylesheet" href="surface.css">
 ```
 
-## [icon](https://s9a.github.io/icon.svg) [switch](icon.svg)
+## [icon](https://s9a.github.io/dew/icon.svg) [switch](icon.svg)
 
 ```html
 <link rel="icon" href="icon.svg">
