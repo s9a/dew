@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="dew.css" media="(color)">
 ```
 
-## [sample](https://s9a.github.io/dew) [surface](surface.css)
+## [element](https://s9a.github.io/dew) [surface](surface.css)
 
 ```html
 <link rel="stylesheet" href="surface.css">
