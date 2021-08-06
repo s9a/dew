@@ -1,7 +1,7 @@
 # [dew](https://s9a.github.io/dew) <br> [fresh](../../releases/latest)
 
 
-## [html](index.html) <br> [sample](sample.html)
+## [html](index.html) <br> [sample](sample.html) <br> [template](../../../diy)
 
 ```html
 <html class="dew-media dew-wet">
