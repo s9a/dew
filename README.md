@@ -1,6 +1,5 @@
-# [dew](https://s9a.github.io/dew)
+# [dew](https://s9a.github.io/dew) <br> [fresh](../../releases/latest)
 
-[polite opensource color scheme](https://s9a.github.io/dew)
 
 ## [html](index.html)
 
