@@ -1,13 +1,30 @@
 {
-  "name": "",
-  "private": true,
-  "funding": "https://github.com/s9a",
+  "name": "@s9a/dew",
+  "funding": "https://s9a.page",
   "homepage": "https://s9a.page/dew",
-  "description": "polite color",
+  "description": "cascading color mode",
   "version": "0.0.0",
   "license": "0BSD",
   "author": "*",
   "scripts": {
+    "firefox": "open -a firefox index.html || start firefox index.html",
+    "start": "open index.html || start index.html || xdg-open index.html",
     "test": "npm doctor"
-  }
+  },
+  "main": "dew.css",
+  "repository": "github:s9a/dew",
+  "bugs": "https://github.com/s9a/dew/issues",
+  "keywords": [
+    "dark mode",
+    "dark-mode",
+    "darkmode",
+    "design",
+    "nature",
+    "colour",
+    "color",
+    "css",
+    "dew",
+    "rwd",
+    "web"
+  ]
 }
