@@ -69,10 +69,24 @@ https://github.com/s9a/dew
   --dew-hyper: var(--dew-focus);
 }
 
-.dew-polar,
-.dew-lunar {
+.dew-media {
+  --dew-oil: var(--dew-media);
+  --dew-ink: var(--dew-polar);
+}
+
+.dew-polar {
   --dew-oil: var(--dew-polar);
   --dew-ink: var(--dew-media);
+}
+
+.dew-solar {
+  --dew-oil: var(--dew-solar);
+  --dew-ink: var(--dew-lunar);
+}
+
+.dew-lunar {
+  --dew-oil: var(--dew-lunar);
+  --dew-ink: var(--dew-solar);
 }
 
 @media (prefers-color-scheme: dark) {
