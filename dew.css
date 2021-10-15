@@ -53,8 +53,8 @@ https://github.com/s9a/dew
 
  /*diy*/
   --dew-shift: none;
-  --dew-solar: mistyrose;
-  --dew-lunar: darkviolet;
+  --dew-solar: hotpink;
+  --dew-lunar: #201;
   --dew-locus: currentColor;
   --dew-focus: invert(100%);
   --dew-hover: none;
