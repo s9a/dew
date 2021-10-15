@@ -11,7 +11,7 @@
 
 ```html
 <meta name="color-scheme" content="dark light">
-<meta name="theme-color" content="mistyrose">
+<meta name="theme-color" content="hotpink">
 ```
 
 ## [stylesheet](dew.css)
@@ -52,8 +52,8 @@
 
 ```css
 --dew-shift: color 0ms;
---dew-solar: mistyrose;
---dew-lunar: darkviolet;
+--dew-solar: hotpink;
+--dew-lunar: #201;
 --dew-locus: currentColor;
 --dew-focus: invert(100%);
 --dew-hover: hue-rotate(0deg);

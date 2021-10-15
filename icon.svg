@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg">
   <title>dew droplet</title>
   <style media="(prefers-color-scheme: dark)">
-    rect { fill: darkviolet }
-    circle { fill: mistyrose }
+    rect { fill: #201 }
+    circle { fill: hotpink }
   </style>
-  <rect fill="mistyrose" width="100%" height="100%" />
-  <circle fill="darkviolet" cx="50%" cy="50%" r="30%" />
+  <rect fill="hotpink" width="100%" height="100%" />
+  <circle fill="#201" cx="50%" cy="50%" r="30%" />
 </svg>
