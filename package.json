@@ -3,7 +3,7 @@
   "funding": "https://s9a.page",
   "homepage": "https://s9a.page/dew",
   "description": "cascading color mode",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "0BSD",
   "author": "*",
   "scripts": {
