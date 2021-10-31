@@ -2,9 +2,11 @@
 https://github.com/s9a/dew
 */
 
-.dew-shift *,
-.dew-shift {
-  transition: var(--dew-shift);
+@media (prefers-reduced-motion: no-preference) {
+  .dew-shift *,
+  .dew-shift {
+    transition: var(--dew-shift);
+  }
 }
 
 .dew-wet *,
