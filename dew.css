@@ -60,8 +60,8 @@ https://github.com/s9a/dew
 
  /*diy*/
   --dew-shift: none;
-  --dew-slick: var(--dew-ink);
-  --dew-slime: var(--dew-oil);
+  --dew-slick: deeppink;
+  --dew-slime: black;
   --dew-solar: hotpink;
   --dew-lunar: #201;
   --dew-locus: currentColor;
