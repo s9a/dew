@@ -15,6 +15,11 @@ https://github.com/s9a/dew
   color: var(--dew-ink);
 }
 
+.dew-ion ::selection {
+  background: var(--dew-ink);
+  color: var(--dew-oil);
+}
+
 .dew-rim *,
 .dew-rim {
   border-color: var(--dew-rim);
@@ -55,12 +60,19 @@ https://github.com/s9a/dew
 
  /*diy*/
   --dew-shift: none;
+  --dew-slick: var(--dew-ink);
+  --dew-slime: var(--dew-oil);
   --dew-solar: hotpink;
   --dew-lunar: #201;
   --dew-locus: currentColor;
   --dew-focus: invert(100%);
   --dew-hover: none;
   --dew-vapor: opacity(60%);
+}
+
+::selection {
+  background: var(--dew-slick);
+  color: var(--dew-slime);
 }
 
 :any-link:hover {

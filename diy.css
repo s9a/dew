@@ -1,5 +1,7 @@
 .dew-diy {
   --dew-shift: color 0ms;
+  --dew-slick: deepskyblue;
+  --dew-slime: black;
   --dew-solar: hotpink;
   --dew-lunar: #201;
   --dew-locus: currentColor;
