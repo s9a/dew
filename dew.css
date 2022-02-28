@@ -74,7 +74,7 @@ https://github.com/s9a/dew
   --dew-vapor: opacity(60%);
 }
 
-::selection {
+.dew-slime ::selection {
   background: var(--dew-slick);
   color: var(--dew-slime);
 }
