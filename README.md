@@ -54,8 +54,8 @@
 --dew-shift: color 0ms;
 --dew-slick: mistyrose;
 --dew-slime: deeppink;
---dew-solar: hotpink;
---dew-lunar: #201;
+--dew-solar: orchid;
+--dew-lunar: #111;
 --dew-locus: currentColor;
 --dew-focus: invert(100%);
 --dew-hover: hue-rotate(0deg);
