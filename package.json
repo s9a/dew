@@ -4,7 +4,7 @@
   "homepage": "https://s9a.page/dew",
   "description": "cascading color mode",
   "version": "0.2.0",
-  "license": "0BSD",
+  "license": "Zlib",
   "author": "*",
   "scripts": {
     "firefox": "open -a firefox index.html || start firefox index.html",

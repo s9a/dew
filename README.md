@@ -73,6 +73,6 @@
 - [color](https://mdn.io/css-color)
 - [var](https://mdn.io/css-var)
 
-## [license](LICENSE.txt)
+## [license](LICENSE.md)
 
-[`0BSD`](https://choosealicense.com/licenses/0bsd/)
+[`Zlib`](https://s9a.github.io/license#zlib)
