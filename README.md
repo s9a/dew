@@ -53,7 +53,7 @@
 ```css
 --dew-shift: color 0ms;
 --dew-slick: mistyrose;
---dew-slime: #528;
+--dew-slime: deeppink;
 --dew-solar: hotpink;
 --dew-lunar: #201;
 --dew-locus: currentColor;
