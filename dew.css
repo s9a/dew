@@ -15,11 +15,6 @@ https://github.com/s9a/dew
   color: var(--dew-ink);
 }
 
-.dew-ion ::selection {
-  background: var(--dew-ink);
-  color: var(--dew-oil);
-}
-
 .dew-rim *,
 .dew-rim {
   border-color: var(--dew-rim);
@@ -74,7 +69,7 @@ https://github.com/s9a/dew
   --dew-vapor: opacity(60%);
 }
 
-.dew-slime ::selection {
+.dew-ion ::selection {
   background: var(--dew-slick);
   color: var(--dew-slime);
 }
