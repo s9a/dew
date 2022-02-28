@@ -11,7 +11,7 @@ https://github.com/s9a/dew
 
 .dew-wet *,
 .dew-wet {
-  background: var(--dew-oil);
+  background-color: var(--dew-oil);
   color: var(--dew-ink);
 }
 
@@ -40,7 +40,7 @@ https://github.com/s9a/dew
 .dew-solar.dew-solar,
 .dew-lunar.dew-lunar {
   fill: var(--dew-oil);
-  background: var(--dew-oil);
+  background-color: var(--dew-oil);
   color: var(--dew-ink);
 }
 
