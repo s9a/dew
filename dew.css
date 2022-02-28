@@ -59,12 +59,19 @@ https://github.com/s9a/dew
 
  /*diy*/
   --dew-shift: none;
+  --dew-slick: mistyrose;
+  --dew-slime: deeppink;
   --dew-solar: hotpink;
   --dew-lunar: #201;
   --dew-locus: currentColor;
   --dew-focus: invert(100%);
   --dew-hover: none;
   --dew-vapor: opacity(60%);
+}
+
+.dew-ion ::selection {
+  background-color: var(--dew-slick);
+  color: var(--dew-slime);
 }
 
 :any-link:hover {

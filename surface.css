@@ -120,11 +120,6 @@ img {
   outline-width: thick;
 }
 
-::selection {
-  background: deepskyblue;
-  color: black;
-}
-
 [data-drop] {
   vertical-align: middle;
 }
