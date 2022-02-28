@@ -35,6 +35,10 @@ https://github.com/s9a/dew
   filter: var(--dew-vapor);
 }
 
+.dew-image {
+  background-image: none;
+}
+
 .dew-media.dew-media,
 .dew-polar.dew-polar,
 .dew-solar.dew-solar,
