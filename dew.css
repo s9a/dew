@@ -36,7 +36,7 @@ https://github.com/s9a/dew
 }
 
 .dew-image {
-  background-image: none;
+  background-image: var(--dew-image);
 }
 
 .dew-media.dew-media,
@@ -58,6 +58,7 @@ https://github.com/s9a/dew
   --dew-rim: var(--dew-ink);
 
  /*diy*/
+  --dew-image: none;
   --dew-shift: none;
   --dew-slick: mistyrose;
   --dew-slime: deeppink;
